@@ -1,2 +1,2 @@
-some_var ='change this'
+some_var ='change this variable'
 #ADD ANOTHER VAR HEAR
