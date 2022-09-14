@@ -1,2 +1,4 @@
-some_var ='change this variable'
+
+some_var ='change only this variable'
 #ADD ANOTHER VAR HERE
+
