@@ -1,2 +1,2 @@
 some_var ='change this variable'
-#ADD ANOTHER VAR HEAR
+#ADD ANOTHER VAR HERE
